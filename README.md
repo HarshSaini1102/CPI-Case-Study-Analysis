@@ -33,5 +33,5 @@ To guarantee reporting integrity and avoid silent formula errors, the dashboard 
 ## 📁 Repository Structure
 ```text
 ├── Cpi_Case_Study_analysis.xlsx       # Interactive Excel Dashboard & Automated QA Layer
-├── Dahboard.png/                # Dashboard previews & visual component exports
+├── Dashboard.png/                # Dashboard previews & visual component exports
 └── README.md                   # Case study summary and project documentation
